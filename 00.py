@@ -1,2 +1,1 @@
-str="stressed"
-print(str[::-1])
+print("stressed"[::-1])
