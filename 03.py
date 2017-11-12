@@ -4,7 +4,7 @@ words = text.split(" ")
 for word in words:
     count = 0
     for char in word:
-        if charisalpha():
+        if char.isalpha():
             count += 1
         num.append(count)
 print(num)
