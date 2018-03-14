@@ -1,3 +1,5 @@
+/*整数値を有力させ、値が0ならzeroと表示するプログラムを作成せよ*/
+
 #include<stdio.h>
 int main(void){
 	int num;
