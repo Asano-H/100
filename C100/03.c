@@ -1,3 +1,5 @@
+/*整数値を入力させ、その入力値を表示するプログラムを作成せよ。*/
+
 #include<stdio.h>
 int main(void){
 	int num;
