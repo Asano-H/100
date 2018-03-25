@@ -1,3 +1,5 @@
+/*整数値を入力させ、その値の回数だけHello World!を繰り返して表示するプログラムを作成せよ。*/
+
 #include<stdio.h>
 int main(void){
 	int num;
