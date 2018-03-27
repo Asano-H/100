@@ -4,7 +4,7 @@ int main(void){
 	printf("input number: ");
 	scanf("%d",&num);
 
-	while(num){
+	while(num>=0){
 		printf("%d",num);
 		num--;
 	}
