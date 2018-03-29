@@ -2,9 +2,9 @@
 int main(void){
 	int num;
 	do{
-		printf("input number");
+		printf("input number: ");
 		scanf("%d",&num);
-	}while(num)
+	}while(num);
 
 	return 0;
 }
