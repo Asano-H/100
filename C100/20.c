@@ -10,8 +10,7 @@ int main(void){
 	printf("input 2nd value: ");
 	scanf("%d",&b);
 
-	ans = a/b;
-	printf("result: %d\n",ans);
+	printf("result: %d\n",ans = a/b);
 	printf("result: %d",ans*b);
 
 	return 0;
