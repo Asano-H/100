@@ -7,7 +7,7 @@ int main(void){
 	printf("input number: ");
 	scanf("%d",&num);
 
-	if(num<-10 || 10<num){
+	if(num<=-10 || 10<=num){
 		printf("OK");
 	}
 	return 0;
