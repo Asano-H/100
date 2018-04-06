@@ -1,3 +1,6 @@
+/*整数値を入力させ、その値が-5以上10未満であればOK、
+そうでなければNGと表示するプログラムを作成せよ。*/
+
 #include<stdio.h>
 int main(void){
 	int num;
