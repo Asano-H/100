@@ -1,3 +1,7 @@
+/*整数値を入力させ、その値が-10未満ならrange 1、
+-10以上0未満であればrange 2、
+0以上であればrange 3、と表示するプログラムを作成せよ。*/
+
 #include<stdio.h>
 int main(void){
 	int no;
